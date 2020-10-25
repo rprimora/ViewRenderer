@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ViewRenderer.Core", "ViewRenderer.Core\ViewRenderer.Core.csproj", "{38ADC482-2658-4737-BA90-C890D8E23103}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ViewRenderer.Abstractions", "ViewRenderer.Abstractions\ViewRenderer.Abstractions.csproj", "{64626E37-E532-462B-B438-A4656011E3C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38ADC482-2658-4737-BA90-C890D8E23103}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38ADC482-2658-4737-BA90-C890D8E23103}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38ADC482-2658-4737-BA90-C890D8E23103}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38ADC482-2658-4737-BA90-C890D8E23103}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64626E37-E532-462B-B438-A4656011E3C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64626E37-E532-462B-B438-A4656011E3C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64626E37-E532-462B-B438-A4656011E3C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64626E37-E532-462B-B438-A4656011E3C2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FAFBDEE1-7587-4DA0-8218-2A50A5F89DCA}
+	EndGlobalSection
+EndGlobal

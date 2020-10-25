@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+    <AssemblyVersion>1.0.6.0</AssemblyVersion>
+    <Version>1.0.6</Version>
+    <Authors>Robert Primorac</Authors>
+    <Company>Robert Primorac</Company>
+    <Product>ViewRenderer abstractions</Product>
+    <Description>Logging abstractions for ViewRenderer.Core.</Description>
+    <Copyright>Copyright © 2020</Copyright>
+    <PackageLicenseExpression>Apache-2.0+</PackageLicenseExpression>
+    <NeutralLanguage>English</NeutralLanguage>
+  </PropertyGroup>
+
+</Project>
